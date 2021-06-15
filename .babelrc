@@ -1,0 +1,6 @@
+{//añadir presets que usa
+    "presets": [
+        "@babel/preset-env",//compila emscript6
+        "@babel/preset-react"//compila sintaxis de react
+    ]
+}
