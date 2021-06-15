@@ -60,7 +60,7 @@ module.exports = {
   ],
   devServer: {
     //crear servidor de trabajo local para observar cambios
-    contentBase: path.join(__dirname, 'dist'),
+    contentBase: path.join(__dirname, 'dis'),
     compress: true, //comprimir
     historyApiFallback: true,
     port: 3005, //puerto donde se inicia
